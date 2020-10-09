@@ -1,0 +1,200 @@
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LINK, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/HTB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/DOT, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ADA, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/TRX, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BCH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BNB, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EOS, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/XRP, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ETH, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BTC, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/YEN, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EUR, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/USD, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);

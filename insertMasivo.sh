@@ -3,21 +3,20 @@
 OLDIFS=$IFS
 IFS='
 '
-
 n=1
 for i in $(cat $1); do
-		if [[ $(( n % 2 )) -eq 0 ]]; then #si es linea par
-			
-			cat $2 | tail -n 1 >> cola.txt
-		
-			#echo ${i//mercado1/$(tail -n 1 $2)}
-			
-		else
-			#echo $i
-			echo "Hola"
-		fi
-		n=$(( $n + 1 ))
-
+	if [[ $(( n % 2 )) -eq 0 ]]; then #si es linea par	
+		tail -n 1 $2 > line.txt #saco la ultima linea y lo guardo	
+		head -n -1 $2 > cuerpo.txt #saco todo menos la ultima linea
+		cp cuerpo.txt $2 
+		echo ${i//mercado1/$(cat line.txt)}
+	else
+		echo $i
+	fi
+	n=$(( $n + 1 ))
 done
+rm line.txt
+rm cuerpo.txt
+
 
 IFS=$OLDIFS
