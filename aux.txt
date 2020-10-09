@@ -1,0 +1,200 @@
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (mercado1, id_usuario1, tipo1, fecha_creacion1, fecha_ejec1, valor1, cantidad1, estado1);
