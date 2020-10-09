@@ -1,3 +1,4 @@
+
 INSERT INTO table_name(column1, column2, …)
 VALUES (value1, value2, …);
 
@@ -60,7 +61,7 @@ INSERT INTO G16_Moneda(moneda, nombre, descripcion, alta, estado, fiat)
 VALUES ('USDT','Theter US', 'Criptomoneda atada al dolar a una relacion de 1', now() - '2 year'::interval * random(), 'A', 'N');
 
 INSERT INTO G16_Moneda(moneda, nombre, descripcion, alta, estado, fiat) 
-VALUES ('EUR','Euro', 'Sin descripcion', now() - '2 year'::interval * random(), 'A', 'N');
+VALUES ('EURT','Euro Tether', 'Sin descripcion', now() - '2 year'::interval * random(), 'A', 'N');
 
 INSERT INTO G16_Moneda(moneda, nombre, descripcion, alta, estado, fiat) 
 VALUES ('DAI','Multi-collateral', 'Moneda atada al dolar, a una relacion de 1', now() - '2 year'::interval * random(), 'A', 'N');
@@ -366,35 +367,251 @@ VALUES ('BTC/LINK', 'BTC', 'LINK', 1075.81032);
 
 
 
+---------------------------Mercado EURT / FIAT -----------------------------------
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/USD', 'EURT', 'USD', 1.10);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/EUR', 'EURT', 'EUR', 0.9368);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/YEN', 'EURT', 'YEN', 116);
+
+--------------------------Mercado EURT / CRIPTO ------------------------------------
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/BTC', 'EURT', 'BTC', 0.000104);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/ETH', 'EURT', 'ETH', 0.00311);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/XRP', 'EURT', 'XRP', 4.62);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/EOS', 'EURT', 'EOS', 0.4320);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/LTC', 'EURT', 'LTC', 0.02371);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/BNB', 'EURT', 'BNB', 0.0399);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/BCH', 'EURT', 'BCH', 0.00485);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/TRX', 'EURT', 'TRX', 42.62);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/ADA', 'EURT', 'ADA', 11.13);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/DOT', 'EURT', 'DOT', 0.2539);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/HTB', 'EURT', 'HTB', 271.84);
+
+INSERT INTO G16_Mercado(nombre, moneda_o, moneda_d, precio_mercado)
+VALUES ('EURT/LINK', 'EURT', 'LINK', 0.1141);
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------BILLETERAS-----------------------------------------
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (570948, 'BTC', 10.54353);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (570948, 'USD', 10000000.543543);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (570948, 'EUR', 10000000.45345);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (570948, 'YEN', 1454563464.543534);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'BTC', 1000.54353);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'USD', 1000.53424365);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'XRP', 15435460.543534);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'DAI', 1067564.34543);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'ETH', 1034568.543);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (569692, 'BCH', 10235367.454334);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'BTC', 1.34534);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'TRX', 10343.54353);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'EUR', 100.37);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'ADA', 1665.657670);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'HTB', 105336.763676);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'LINK', 10434.34534);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'TUSD', 104545.4657653);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'USDC', 104655465.65);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'YEN', 10435345.5345);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'EURT', 1435345.67330);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (521624, 'DOT', 1035645.56425);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'BTC', 145640);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'USD', 1045435.4354);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'XRP', 10435.345654);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'YEN', 14354.40);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'DOT', 0.0095433);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'EURT', 154.54650);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'EUR', 104435);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'TRX', 104543.345);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (485485, 'ADA', 1545.4560);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'BTC', 105345);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'EURT', 10545.657654);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'EUR', 10435435);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'TRX', 1456.4540);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'BNB', 10433.435345);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'BCH', 0.0008754);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'YEN', 1054435.4546);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'USD', 10544.45);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'ETH', 10345345.345435334);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (378429, 'BTCH', 10345345.345343554);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'BTC', 1054.545435);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'USD', 104545.54454);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'USDT', 10454.4545);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'YEN', 10545435445.45454544);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'XRP', 105435.53454);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'DAI', 1043545.534453);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'BNB', 1045435.543534534);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'DOT', 154545.4540);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'LINK', 144353234.2353454350);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'ADA', 105454534534.53454334);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'TRX', 104543543.345334);
+
+INSERT INTO G16_Billetera(id_usuario, moneda, saldo)
+VALUES (515722, 'BCH', 10545435.54543534);
+
+--------------------------------------------------------ORDENES---------------------------------------------------
+
+INSERT INTO g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+VALUES ('BTC/USD', 569692, 'Venta', now(), null, 10000, 100, 'Nueva');--seba
+
+INSERT INTO g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+VALUES ('BTC/USD', 570948, 'Venta', now(), null, 10000, 1, 'Nueva');--felix
+
+INSERT INTO g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+VALUES ('BTC/USD', 485485, 'Compra', now(), null, 10000, 1, 'Nueva');--pedro
+
+insert into g16_movimiento(id_usuario, moneda, fecha, tipo, comision, valor, bloque, direccion ) VALUES
+(570948, 'BTC', now(), 'E', 0.005, 1, null, null);
+
+insert into g16_movimiento(id_usuario, moneda, fecha, tipo, comision, valor, bloque, direccion ) VALUES
+(570948, 'USD', now(), 'D', 0.005, 10000, null, null);
+
+insert into g16_movimiento(id_usuario, moneda, fecha, tipo, comision, valor, bloque, direccion ) VALUES
+(485485, 'BTC', now(), 'D', 0.005, 1-0.005, null, null);
+
+insert into g16_movimiento(id_usuario, moneda, fecha, tipo, comision, valor, bloque, direccion ) VALUES
+(485485, 'USD', now(), 'E', 0.005, 10000-0.005*10000, null, null);
+
+---------------------------------------------------------BILLETERA---------------------------------------
+
+update g16_billetera set saldo=9 where id_usuario=570948 and moneda='BTC' --Se descuenta 1 BTC en la billetera de seba ya que esté vendio 1 BTC
+
+update g16_billetera set saldo=saldo+10000 where id_usuario=570948 and moneda='USD'--Faltaria descontar la comision?
 
 
+update g16_billetera set saldo=saldo+1 where id_usuario=485485 and moneda='BTC'; --Se descuenta 1 BTC en la billetera de seba ya que esté vendio 1 BTC
+
+update g16_billetera set saldo=saldo-10000 where id_usuario=485485 and moneda='USD';--Faltaria descontar la comision?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--Falta modificar las ordenes. Actualizar de nueva a cumplida, Setear la fecha de ejecucion. Hacer composicion orden.
 
 
 
