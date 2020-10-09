@@ -1,5 +1,5 @@
 -- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2020-10-04 02:05:04.046
+
 
 -- tables
 -- Table: G16_Billetera
