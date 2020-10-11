@@ -1,0 +1,480 @@
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);
+insert into g16_billetera(id_usuario, moneda)
+values (id_usuario1, moneda1);

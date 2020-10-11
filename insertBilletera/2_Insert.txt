@@ -1,0 +1,480 @@
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (521624, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (378429, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (683720, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (485485, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (898476, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (977214, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (338652, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (515722, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (543501, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (226215, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (569692, 'USD');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'BNB');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'EURT');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'LINK');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'HTB');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'DOT');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'ADA');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'TRX');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'BCH');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'LTC');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'EOS');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'XRP');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'ETH');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'BTC');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'TUSD');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'USDC');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'DAI');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'USDT');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'YEN');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'EUR');
+insert into g16_billetera(id_usuario, moneda)
+values (570948, 'USD');

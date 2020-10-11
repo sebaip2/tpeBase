@@ -1,0 +1,19 @@
+
+create trigger tr_orden
+    after insert or update on g16_orden
+    for each row execute procedure chk_creacion_valida();
+
+create or replace function chk_creacion_valida() returns trigger as $$
+    begin
+        if (exists( select 1 from g16_orden o
+            join g16_mercado g16m on o.mercado = g16m.nombre
+            join g16_moneda g on g16m.moneda_d = g.moneda
+            join g16_moneda g1 on g16m.moneda_o = g1.moneda
+            where o.fecha_creacion < g.alta or o.fecha_creacion < g1.alta
+        ))then
+            raise exception 'Creacion invalida';
+        end if;
+        return new;
+    end;
+    $$ language 'plpgsql';
+

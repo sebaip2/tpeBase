@@ -9,7 +9,7 @@ for i in $(cat $1); do
 		tail -n 1 $2 > line.txt #saco la ultima linea y lo guardo	
 		head -n -1 $2 > cuerpo.txt #saco todo menos la ultima linea
 		cp cuerpo.txt $2 
-		echo ${i//mercado1/$(cat line.txt)}
+		echo ${i//cantidad1/$(cat line.txt)}
 	else
 		echo $i
 	fi

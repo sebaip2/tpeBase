@@ -1,0 +1,200 @@
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/TRX, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BCH, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BNB, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LTC, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EOS, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/XRP, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ETH, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BTC, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/YEN, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EUR, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/USD, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/LINK, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/HTB, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/DOT, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/ADA, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/TRX, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BCH, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BNB, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/LTC, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/EOS, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/XRP, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/ETH, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/BTC, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/YEN, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/EUR, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (EURT/USD, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/LINK, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/HTB, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/DOT, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/ADA, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/TRX, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/BCH, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/BNB, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/LTC, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/EOS, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/XRP, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/ETH, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/YEN, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/EUR, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (BTC/USD, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/LINK, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/HTB, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/DOT, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/ADA, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/TRX, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BCH, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BNB, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/LTC, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/EOS, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/XRP, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/ETH, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/BTC, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/YEN, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/EUR, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (TUSD/USD, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/LINK, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/HTB, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/DOT, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/ADA, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/TRX, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BCH, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BNB, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/LTC, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/EOS, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/XRP, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/ETH, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/BTC, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/YEN, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/EUR, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDC/USD, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/LINK, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/HTB, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/DOT, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/ADA, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/TRX, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BCH, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BNB, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/LTC, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/EOS, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/XRP, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/ETH, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/BTC, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/YEN, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/EUR, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (DAI/USD, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LINK, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/HTB, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/DOT, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ADA, 521624, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/TRX, 378429, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BCH, 683720, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BNB, 485485, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/LTC, 898476, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EOS, 977214, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/XRP, 338652, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/ETH, 515722, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/BTC, 543501, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/YEN, 226215, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/EUR, 569692, 'Venta', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
+insert into g16_orden(mercado, id_usuario, tipo, fecha_creacion, fecha_ejec, valor, cantidad, estado)
+values (USDT/USD, 570948, 'Compra', now() - '2 year'::interval * random(), fecha_ejec1, valor1, cantidad1, estado1);
