@@ -4,7 +4,7 @@
 CREATE TABLE G16_Billetera (
     id_usuario int  NOT NULL,
     moneda varchar(10)  NOT NULL,
-    saldo decimal(20,10)  NOT NULL,
+    saldo decimal(20,10)  NOT NULL default 0,
     CONSTRAINT PK_G16_Billetera PRIMARY KEY (id_usuario,moneda)
 );
 
@@ -42,7 +42,7 @@ CREATE TABLE G16_Movimiento (
     moneda varchar(10)  NOT NULL,
     fecha timestamp  NOT NULL,
     tipo char(1)  NOT NULL,
-    comision decimal(20,10)  NOT NULL,
+    comision decimal(20,10)  NOT NULL default 0,
     valor decimal(20,10)  NOT NULL,
     bloque int  NULL,
     direccion varchar(100)  NULL,
